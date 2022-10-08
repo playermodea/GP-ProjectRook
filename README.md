@@ -1,2 +1,4 @@
-# GP-ProjectRook
- Graduation Project
+# Tower Of Grid
+## 프로젝트 개요
+---
+졸업작품으로 만들어진 프로젝트입니다.
