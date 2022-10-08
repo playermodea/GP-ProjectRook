@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 404e99f4d46483e47ade25425bc1c758
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Lobby_Scene: {fileID: 8300000, guid: c67b1b3a4a2c1104a8d0365822aafc5c, type: 3}
+  - First_Floor: {fileID: 8300000, guid: 18ca6b8becf2cf148bd76ae4a84df1fa, type: 3}
+  - Second_Floor: {fileID: 8300000, guid: 7130664a88e6745419169d0354ba22df, type: 3}
+  - ProLog_Scene: {fileID: 8300000, guid: 886741e27d0739e429971fa86c8ca6a7, type: 3}
+  - Ending_Scene: {fileID: 8300000, guid: 08e008d122b406841b4ca9025b190b5b, type: 3}
+  - GameOver_Scene: {fileID: 8300000, guid: 94b3a161a6a31194f962f36ea30dbb48, type: 3}
+  - First_Floor_Boss: {fileID: 8300000, guid: 3129a50a9342c464ca877292cc82553e, type: 3}
+  - Second_Floor_Boss: {fileID: 8300000, guid: a20cd77f6a8f30147965a0c84ec4cbd9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

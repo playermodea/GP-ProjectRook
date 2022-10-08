@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f8b4ef249bd7784b8575fa5c555d2bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - change_hp_plus: {fileID: -5185649437945853404, guid: 4225945e3a623af4aa06b45997317a78,
+      type: 3}
+  - change_hp_Minus: {fileID: -719141606729432441, guid: 4225945e3a623af4aa06b45997317a78,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

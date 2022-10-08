@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1926777152382169729
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3807472614573541135}
+  - component: {fileID: 8912146815787678785}
+  m_Layer: 0
+  m_Name: ItemSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3807472614573541135
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926777152382169729}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8053223267656425043}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8912146815787678785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926777152382169729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 046939d085b5c7a408db778c746f6f7e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text: {fileID: 5042487659081167160}
+  isSell: 0
+  isHealingHeart: 0
+  Item:
+  - {fileID: 525825321270506563, guid: ab0dbff2baf81484b9de1826f0d7dc06, type: 3}
+  - {fileID: 3797475975310820728, guid: 061653d3b5dbe744db82b33609171d43, type: 3}
+  - {fileID: 2426919095312372463, guid: cc7dcd189fc527549be07fa89d96bee1, type: 3}
+  - {fileID: 2982323584934342320, guid: c885b11864ca01c4296aef966010564b, type: 3}
+  - {fileID: 1755071909421310884, guid: d68ccc3d0e6d102428f142b2ad12ede3, type: 3}
+  - {fileID: 3434291458813066433, guid: ea394bd9e313c894996f40d68aaa9f92, type: 3}
+  - {fileID: 8755021977292534224, guid: 180746aac25251b4e8ddcce835dba7f7, type: 3}
+  - {fileID: 63834916141256505, guid: 00f32d3dace43fd48ac7790ce6812080, type: 3}
+  - {fileID: 271582872482127942, guid: fff5db446245cb141bf790d383c70d1e, type: 3}
+  - {fileID: 3687489682587009081, guid: 5cc8cbb525ec3ed4ca50e7cb0f73ea3e, type: 3}
+  - {fileID: 927370358398611238, guid: 6171d47d96724bc4ea545faa2deb87a9, type: 3}
+  - {fileID: 9211905001898661443, guid: 2cfcd442946cc0f44b4f9ae02bc59b9c, type: 3}
+  - {fileID: 9035040949835099185, guid: f049e1b4f20574248bce75d964ae0d94, type: 3}
+  - {fileID: 3906107250082715241, guid: 6db60447f8d99924fa5306bb8409aa1c, type: 3}
+  - {fileID: 8529079972121391134, guid: 2c2859b7a3decd44eb40e7038c873481, type: 3}
+  - {fileID: 1178712446805237788, guid: 9b160c57abb062b4ba6e44804f99161a, type: 3}
+  - {fileID: 6012305155482349944, guid: b7d10b5f92134b64c8807dd394ba6207, type: 3}
+  - {fileID: 5078268869392911773, guid: ef854acb687f9c445867f9e39e9fb1f9, type: 3}
+  - {fileID: 8541081791804157137, guid: ba130560bbac66a4eb9fc443298a2d42, type: 3}
+  - {fileID: 4582356871769788836, guid: cf30eacb6738a504d9b2376c475951ad, type: 3}
+  - {fileID: 4777087508665116017, guid: 31a3eb250a3c0274191192f682cdbed0, type: 3}
+  - {fileID: 7065858071058381429, guid: 6ddfb36f53c57d44c8b52428550c0d1f, type: 3}
+  - {fileID: 727191256022429290, guid: 4e99c4411febaaa45a12afb1aec32498, type: 3}
+  - {fileID: 3768398569757195028, guid: 5807a06d26bedd646b9c615f7fae0e28, type: 3}
+  - {fileID: 1135098977378198067, guid: ff2a45399c97035438fed00f6c8361e9, type: 3}
+  - {fileID: 3472216254049486228, guid: 5d38833c9f40e644c94299eca04d4fce, type: 3}
+  - {fileID: 7835924130337013544, guid: 78d2df1306b6baa4785e0fad42e02f08, type: 3}
+  - {fileID: 2820130492239596907, guid: 2610dc4b4b20bbc468e2bec292ee385b, type: 3}
+  - {fileID: 8737241256085929158, guid: 114fce5ffceaa77408c1dd9059be90fc, type: 3}
+  - {fileID: 8650891767755193835, guid: 2d4debe6b98fed244997757f8b0f9d7f, type: 3}
+  HealingHeart: {fileID: 8521768567142013760, guid: 42eaa5e8fd5514843913248b849ab6ac,
+    type: 3}
+--- !u!1 &8052478825621626701
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8053223267656425043}
+  - component: {fileID: 4747130285978378562}
+  - component: {fileID: 5042487659081167160}
+  m_Layer: 0
+  m_Name: PriceText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &8053223267656425043
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8052478825621626701}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.8, z: 0}
+  m_LocalScale: {x: 0.05, y: 0.05, z: 0.05}
+  m_Children: []
+  m_Father: {fileID: 3807472614573541135}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &4747130285978378562
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8052478825621626701}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: aff9a9adaf2342743a9a4847e4b2d52b, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!102 &5042487659081167160
+TextMesh:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8052478825621626701}
+  m_Text: Price
+  m_OffsetZ: 0
+  m_CharacterSize: 1
+  m_LineSpacing: 1
+  m_Anchor: 4
+  m_Alignment: 0
+  m_TabSize: 4
+  m_FontSize: 150
+  m_FontStyle: 0
+  m_RichText: 1
+  m_Font: {fileID: 12800000, guid: aff9a9adaf2342743a9a4847e4b2d52b, type: 3}
+  m_Color:
+    serializedVersion: 2
+    rgba: 4278190080

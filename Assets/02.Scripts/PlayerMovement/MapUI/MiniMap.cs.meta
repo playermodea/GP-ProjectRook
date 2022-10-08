@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 54cbf84a9a67abb40a48fe2390bf37b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Mini_Map: {fileID: 8010890488478189410, guid: 7725c35fbba414f4095a40de07637978,
+      type: 3}
+  - inPlayer_Room: {fileID: 2100000, guid: a5f1bfbc7ff55034aaa208ce96c564bb, type: 2}
+  - Visited_Room: {fileID: 2100000, guid: 6a3852acbaae33147b6dee5912a13af4, type: 2}
+  - UnVisited_Room: {fileID: 2100000, guid: f0559a691dc0b9b408b79e6d2e786e09, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

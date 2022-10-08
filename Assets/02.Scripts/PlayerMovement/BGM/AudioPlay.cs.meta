@@ -1,0 +1,44 @@
+fileFormatVersion: 2
+guid: 439008ae383f52d4dbc25b4abe7bfb23
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Attack1: {fileID: 8300000, guid: 7362eece400063c4baa75c000210c377, type: 3}
+  - Attack2: {fileID: 8300000, guid: 567a1e6c9a3c710449903db38f1065d7, type: 3}
+  - Attack3: {fileID: 8300000, guid: 8390857729c71fc408ebd4f53ead6ee1, type: 3}
+  - Get_Heart: {fileID: 8300000, guid: 5ad9ab7c7f115494c94a80ad42d24112, type: 3}
+  - Get_Coin: {fileID: 8300000, guid: cb1a7b4b2439456418c1547b915b53a0, type: 3}
+  - Under_Attack1: {fileID: 8300000, guid: 89260212e9aaadd4898ef5fe58214e98, type: 3}
+  - Under_Attack2: {fileID: 8300000, guid: 6640969f10a69f245995f6f59298d04d, type: 3}
+  - Under_Attack3: {fileID: 8300000, guid: b2825399ced6d6a44afa48024b7eb0ea, type: 3}
+  - Move: {fileID: 8300000, guid: 04f35d9561c29244d9edd705945494a3, type: 3}
+  - Boss_Dead: {fileID: 8300000, guid: 939ff31b978416444afd4654c8bf0b2c, type: 3}
+  - Stage_Clear: {fileID: 8300000, guid: e34f6aff6b9c6184587b2547c692959f, type: 3}
+  - Player_Dead: {fileID: 8300000, guid: 32391e4837a538e46ac6c4cbb64e0f13, type: 3}
+  - Get_Item: {fileID: 8300000, guid: bb098e5b27408e14e83189a2e426bf37, type: 3}
+  - Next_Floor: {fileID: 8300000, guid: 523a859a3c3ffce48a510596b0e9e0e6, type: 3}
+  - Boss_Attack1: {fileID: 8300000, guid: e4e2c546f07272d4db82e2dc8b98642c, type: 3}
+  - Boss_Attack2: {fileID: 8300000, guid: b9afbbe41583cc741bfa9557271489c0, type: 3}
+  - Boss_Attack3: {fileID: 8300000, guid: 302e3df2c5147f5449ac7903eececca9, type: 3}
+  - Lobby_Option_Newgame: {fileID: 8300000, guid: 879aadc3310054f42b134ffb6f025201,
+      type: 3}
+  - Lobby_Exit_Back: {fileID: 8300000, guid: 66fe89885a5e8f44b821db68f34747ca, type: 3}
+  - Buy_Item: {fileID: 8300000, guid: e2a4be75f52ab294d9ae9a5b8cc737e0, type: 3}
+  - Explosion_Sound: {fileID: 8300000, guid: 99fa2ad59568da14fb31363718219207, type: 3}
+  - Fire_Effect_Sound: {fileID: 8300000, guid: 361b9431a90bdcf48be7d63d5a9eabfe, type: 3}
+  - Boom_Effect_Sound: {fileID: 8300000, guid: 469b42f61ef4f0e43986b88ac5a643dc, type: 3}
+  - Slide_Effect_Sound: {fileID: 8300000, guid: e38728d63b3ebdb43937be3ff3f9ed10,
+      type: 3}
+  - SoundWave_Effect_Sound: {fileID: 8300000, guid: a6a079ed24c6a0148aa9d3de69d91e1a,
+      type: 3}
+  - ThrowAFloat_Effect_Sound: {fileID: 8300000, guid: 98cc35274b826b748b755edcddd207a1,
+      type: 3}
+  - Stabbing_Effect_Sound: {fileID: 8300000, guid: 1a9929f7c6a09014aac2a5485b17ca59,
+      type: 3}
+  - Hit_Effect_Sound: {fileID: 8300000, guid: 1567f9d179f11b2489f20ffcc61f08ec, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

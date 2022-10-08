@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 810c43fcc8c281f478049c5d5ceeebe9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defaultDMap: {instanceID: 0}
+  - defaultLMap: {instanceID: 0}
+  - defaultRMap: {instanceID: 0}
+  - defaultUMap: {instanceID: 0}
+  - defaultLDMap: {instanceID: 0}
+  - defaultLRMap: {instanceID: 0}
+  - defaultLUMap: {instanceID: 0}
+  - defaultRDMap: {instanceID: 0}
+  - defaultRUMap: {instanceID: 0}
+  - defaultUDMap: {instanceID: 0}
+  - defaultLRDMap: {instanceID: 0}
+  - defaultLRUMap: {instanceID: 0}
+  - defaultLUDMap: {instanceID: 0}
+  - defaultRUDMap: {instanceID: 0}
+  - defaultAllDirectionMap: {instanceID: 0}
+  - defaultTreasureDMap: {instanceID: 0}
+  - defaultTreasureLMap: {instanceID: 0}
+  - defaultTreasureRMap: {instanceID: 0}
+  - defaultTreasureUMap: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
