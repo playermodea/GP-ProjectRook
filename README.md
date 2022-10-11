@@ -1,15 +1,5 @@
-# 프로젝트 개요
-* 게임 이름: Tower Of Grid
-* 개발 기간: 2022.03 ~ 2022.06
-* 게임 장르: 2D Turn-based Game
-* 사용 엔진: Unity, C#<br/>
-* 개발 인원: 4인<br/>
-  * 기획: 박선혁<br/>
-  * 프로그래밍: **유준혁**, 김선우, 유승진<br/>
-## 주요기능
-* 격자맵 생성<br/>
-* 랜덤맵 생성<br/>
-* 격자맵에서의 캐릭터 제어<br/>
-  * 캐릭터 이동<br/>
-  * 캐릭터 공격<br/>
-수정 중<br/>
+# Project概要
+* Game Name: Tower Of Grid
+* Periods of Development: 2022.03 ~ 2022.06
+* Genre: 2D Turn-based Game
+* Engine: Unity, C#<br/>
